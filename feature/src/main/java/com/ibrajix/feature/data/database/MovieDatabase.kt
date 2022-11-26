@@ -7,7 +7,6 @@ import com.ibrajix.feature.data.model.MovieList
 
 private const val DATABASE_VERSION = 2
 
-
 @Database(
     entities = [MovieList::class],
     version = DATABASE_VERSION
