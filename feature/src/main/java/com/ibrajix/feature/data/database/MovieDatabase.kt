@@ -5,7 +5,7 @@ import androidx.room.RoomDatabase
 import com.ibrajix.feature.data.dao.MovieDao
 import com.ibrajix.feature.data.model.MovieList
 
-private const val DATABASE_VERSION = 2
+private const val DATABASE_VERSION = 3
 
 @Database(
     entities = [MovieList::class],

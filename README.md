@@ -20,7 +20,7 @@
 
 ## TO RUN THE APP SUCCESSFULLY ON ANDROID STUDIO:
 
-Open gradle.properties file, decalare your apiKey like this:
+Open gradle.properties file, declare your apiKey like this:
 
 MovieApiToken="YOUR-API-KEY-HERE"
 
