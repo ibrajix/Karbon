@@ -16,9 +16,14 @@
 - Hilt 
 - Retrofit
 - Flow
-- Data source -> Api (https://www.themoviedb.org/)
+- Data source -> Api (https://www.themoviedb.org/) --> Get your api key here too
 
+## TO RUN THE APP SUCCESSFULLY ON ANDROID STUDIO:
+
+Open gradle.properties file, decalare your apiKey like this:
+
+MovieApiToken="YOUR-API-KEY-HERE"
 
 # Download
 
-<a href="https://github.com/ibrajix/Karbon/releases/download/v1.0/karbon_v1.0.apk">Click to download APK</a>
+<a href="https://github.com/ibrajix/Karbon/releases/download/v1.1/karbon-1.1.apk">Click to download APK</a>
