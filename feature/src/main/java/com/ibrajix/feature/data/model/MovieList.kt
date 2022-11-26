@@ -12,7 +12,7 @@ data class MovieList(
     @PrimaryKey
     val id: Int,
 
-    val backdrop_path: String,
+    val backdrop_path: String?,
 
     val original_title: String,
 

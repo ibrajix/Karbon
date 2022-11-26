@@ -40,6 +40,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.ibrajix.feature'
 
     kotlin.sourceSets.all {
         languageSettings.optIn("kotlin.RequiresOptIn")

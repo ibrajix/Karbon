@@ -4,7 +4,7 @@ import com.ibrajix.feature.BuildConfig
 
 object EndPoints {
 
-    const val API_KEY = BuildConfig.API_KEY
+    val API_KEY = BuildConfig.API_KEY
 
     const val API_BASE_URL = "https://api.themoviedb.org/3/"
 
